@@ -1,0 +1,27 @@
+We know performed one of the major tasks in programming called the looping, we told you
+how we can make our cat reside the multiplication tables, well we made our cat do some
+mental exercise you see it is time for us to make her do some physical exercise. We will make
+her move back and forth by using our programming skills. Ok, friends see I have written a
+very long code, very patiently I have tried writing this code what exactly is this code? Look at
+this, initially I am going to move twenty steps take a half a second break there and then come
+back twenty steps, half a second pause go ahead forty steps see it’s like first day cat moves
+twenty steps and comes back next it goes forty steps and comes back sixty steps comes back
+minus sixty steps, eighty steps and then comes back and so on as you can see so on so on, so
+on, move hundred, minus hundred move one twenty and then minus one twenty which means
+come back move one forty and then come back one sixty, one eighty, two hundred and then
+come back as you would have guessed, if you have guessed this cat will now keep moving
+ahead like this incrementally will get bolder and bolder and move away from her house, she
+will try going as far as possible, let’s see how this works by double clicking on this. Double
+click; ahead back, back, ahead back go ahead back, go bolder and bolder go twenty steps
+ahead twenty steps ahead and finally stop once you reach two hundred steps. Correct? Let’s
+do this once again and then watch one, two, three, four, five, six, seven, eight, nine and ten so
+twenty steps, two hundred steps which is ten perfect, now I have a question for you all, she is
+doing basically ten ahead’s and ten backs in succession right, is there any way I can use a
+repeat loop and then put something so that the same thing can be achieved by making her by
+do something ten times without going through this ordeal of writing this big of code, now
+what am I trying to say, is there any way you can use this and reduce this to a smaller code,
+because its looks like we are repeating the same stuff but these values are changing correct?
+How do we go about it? Can you now figure out by looking at all the options here, if you can
+do this all by yourself, we strongly suggest that you spend at least fifteen to twenty minutes
+time figuring out, how you can achieve the same thing using the repeat loop, if you cannot
+solve it get back and continue watching the videos.
